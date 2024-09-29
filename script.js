@@ -1,3 +1,4 @@
+//Languages
 const languages = {
     "am-ET": "Amharic",
     "ar-SA": "Arabic",
@@ -97,7 +98,9 @@ const languages = {
     "yi-YD": "Yiddish",
     "zu-ZA": "Zulu",
   };
-  
+
+
+//Logic
   const fromText = document.querySelector(".from-text"),
     toText = document.querySelector(".to-text"),
     exchageIcon = document.querySelector(".exchange"),
